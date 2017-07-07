@@ -1,0 +1,14 @@
+# Java class files:
+*.class
+
+# Vim:
+*.swp
+
+# Eclipse:
+.project
+.settings/
+.classpath
+
+# macOS
+.DS_Store
+
